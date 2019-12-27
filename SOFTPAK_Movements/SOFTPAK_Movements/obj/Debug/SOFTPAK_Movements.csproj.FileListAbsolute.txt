@@ -1,0 +1,6 @@
+C:\Users\Lurdes\Desktop\Escola\PSI\SOFTPAK_Movements\SOFTPAK_Movements\bin\Debug\SOFTPAK_Movements.exe.config
+C:\Users\Lurdes\Desktop\Escola\PSI\SOFTPAK_Movements\SOFTPAK_Movements\bin\Debug\SOFTPAK_Movements.exe
+C:\Users\Lurdes\Desktop\Escola\PSI\SOFTPAK_Movements\SOFTPAK_Movements\bin\Debug\SOFTPAK_Movements.pdb
+C:\Users\Lurdes\Desktop\Escola\PSI\SOFTPAK_Movements\SOFTPAK_Movements\obj\Debug\SOFTPAK_Movements.csprojAssemblyReference.cache
+C:\Users\Lurdes\Desktop\Escola\PSI\SOFTPAK_Movements\SOFTPAK_Movements\obj\Debug\SOFTPAK_Movements.exe
+C:\Users\Lurdes\Desktop\Escola\PSI\SOFTPAK_Movements\SOFTPAK_Movements\obj\Debug\SOFTPAK_Movements.pdb
